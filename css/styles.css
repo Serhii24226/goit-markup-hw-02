@@ -95,7 +95,7 @@ button {
     color: #2e2f42;
 }
 
-.menu-section-item-title {
+.menu-section-item h3 {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -103,7 +103,7 @@ button {
     color: #2e2f42;
 }
 
-.menu-section-item-text {
+.menu-section-item p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.32px;
@@ -128,7 +128,7 @@ button {
     background-color: #FFFFFF;
 }
 
-.menu-team-list-title {
+.menu-team-list h3 {
     /*    text-align: center;*/
     font-size: 20px;
     font-weight: 500;
@@ -137,7 +137,7 @@ button {
     color: #2e2f42;
 }
 
-.menu-team-list-text {
+.menu-team-list p {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
@@ -154,7 +154,7 @@ button {
     color: #2e2f42;
 }
 
-.menu-portfolio-list-title {
+.menu-portfolio-list h3 {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -162,7 +162,7 @@ button {
     color: #2e2f42;
 }
 
-.menu-portfolio-list-text {
+.menu-portfolio-list p {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
